@@ -15,10 +15,12 @@ Extent Reports
 After cloning the project and run maven clean on it.
 create .env file and add the below details on it.
 
+```
 FACEBOOK_EMAIL=
 FACEBOOK_PASSWORD=
 WALlETHUB_PROFILE_URL=https://wallethub.com/profile/test-insurance-company-13732055i
 WALLETHUB_USERNAME=
 WALLETHUB_PASSWORD=
+```
 
 Now, Run the testng.xml file in the resource fodler.
